@@ -1,0 +1,3 @@
+[submodule "grandchild_1"]
+	path = grandchild_1
+	url = https://github.com/PyaePhyoKhant/grandchild_1.git
